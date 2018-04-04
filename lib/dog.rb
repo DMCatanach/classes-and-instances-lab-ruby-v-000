@@ -1,3 +1,5 @@
-class Dog 
+class Dog
   #describe a dog!
-end 
+end
+
+fido = Dog.new 
